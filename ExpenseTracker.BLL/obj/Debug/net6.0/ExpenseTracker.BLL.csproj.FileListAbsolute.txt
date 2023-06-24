@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\bin\Debug\net6.0\ExpenseTracker.BLL.deps.json
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\bin\Debug\net6.0\ExpenseTracker.BLL.runtimeconfig.json
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\bin\Debug\net6.0\ExpenseTracker.BLL.dll
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\bin\Debug\net6.0\ExpenseTracker.BLL.pdb
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\bin\Debug\net6.0\ExpenseTracker.DAL.dll
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\bin\Debug\net6.0\ExpenseTracker.DAL.pdb
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\obj\Debug\net6.0\ExpenseTracker.BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\obj\Debug\net6.0\ExpenseTracker.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\obj\Debug\net6.0\ExpenseTracker.BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\obj\Debug\net6.0\ExpenseTracker.BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\obj\Debug\net6.0\ExpenseTracker.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\obj\Debug\net6.0\ExpenseTracker.BLL.csproj.CopyComplete
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\obj\Debug\net6.0\ExpenseTracker.BLL.dll
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\obj\Debug\net6.0\refint\ExpenseTracker.BLL.dll
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\obj\Debug\net6.0\ExpenseTracker.BLL.pdb
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\obj\Debug\net6.0\ExpenseTracker.BLL.genruntimeconfig.cache
+C:\Users\User\Desktop\Elisa\.Net\ExpenseTracker.BLL\obj\Debug\net6.0\ref\ExpenseTracker.BLL.dll
